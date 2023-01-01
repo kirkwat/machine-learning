@@ -1,4 +1,4 @@
-# Machine Learning Assignments
+# Machine Learning Projects
 
 This repository contains projects created while studying machine learning.
 
